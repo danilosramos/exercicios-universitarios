@@ -8,7 +8,7 @@ Este repositório serve como um arquivo para projetos e exercícios menores dese
 | :--- | :--- | :--- |
 | **C/C++ Básico** | `REPdeVetores.c`, `rep.1.2.c`, `rep1.3.c`, `T1.cpp` | Exercícios introdutórios focados em lógica, estruturas de repetição e vetores. |
 | **Algoritmos (Visualg)** | Arquivos `.ALG` (dentro do `portfolio-export`) | Pseudocódigos que demonstram a capacidade de resolver problemas algorítmicos. |
-| **Assembly/Org. Arq.** | `TRABALHOORGARQ.asm` | Código em Assembly para um curso de Organização e Arquitetura de Computadores. |
+| **Assembly/Org. Arq.** | `Mic8085.asm` | Código em Assembly para um curso de Organização e Arquitetura de Computadores. |
 | **Simulação (Proteus)** | `Relógio24H.pdsprj`, `CANCELA-EnzoeDanilo(1).zip` | Projetos de simulação de hardware (Relógio 24h, Cancela Automática). |
 
 ## Valor para o Recrutador
